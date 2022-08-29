@@ -63,6 +63,13 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`Function( [...argNames,] body )`][@stdlib/function/ctor]</span><span class="delimiter">: </span><span class="description">function constructor.</span>
+-   <span class="signature">[`function2string( fcn )`][@stdlib/function/to-string]</span><span class="delimiter">: </span><span class="description">return a string representing the source code of a provided function.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -164,6 +171,14 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/function/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/function/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/function/ctor]: https://github.com/stdlib-js/function/tree/main/ctor
+
+[@stdlib/function/to-string]: https://github.com/stdlib-js/function/tree/main/to-string
+
+<!-- </toc-links> -->
 
 </section>
 
