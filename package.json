@@ -39,12 +39,12 @@
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
-    "@stdlib/bench": "github:stdlib-js/bench",
-    "@stdlib/blas": "github:stdlib-js/blas",
-    "@stdlib/math": "github:stdlib-js/math",
-    "@stdlib/ndarray": "github:stdlib-js/ndarray",
-    "@stdlib/random": "github:stdlib-js/random",
-    "@stdlib/string": "github:stdlib-js/string",
+    "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/blas": "github:stdlib-js/blas#main",
+    "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
+    "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/string": "github:stdlib-js/string#main",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
@@ -75,7 +75,7 @@
     "ns"
   ],
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
