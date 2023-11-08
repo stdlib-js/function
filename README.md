@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/function@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/function/tags). For example,
+
+```javascript
 import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/function@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Function, function2string } from 'https://cdn.jsdelivr.net/gh/stdlib-js/function@v0.1.0-deno/mod.js';
+import { Function, function2string } from 'https://cdn.jsdelivr.net/gh/stdlib-js/function@deno/mod.js';
 ```
 
 #### ns
@@ -87,7 +92,7 @@ The namespace contains the following:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/function@v0.1.0-deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/function@deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
