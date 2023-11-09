@@ -128,6 +128,12 @@ for ( i = 0; i < fcns.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/function/ctor`][@stdlib/function/ctor]</span><span class="delimiter">: </span><span class="description">function constructor.</span>
+
 </section>
 
 <!-- /.related -->
@@ -137,6 +143,10 @@ for ( i = 0; i < fcns.length; i++ ) {
 <section class="links">
 
 [@stdlib/function/ctor]: https://github.com/stdlib-js/function/tree/main/ctor
+
+<!-- <related-links> -->
+
+<!-- </related-links> -->
 
 </section>
 
