@@ -4,9 +4,63 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-02-26)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+<section class="package" id="function-thunk-unreleased">
+
+#### [@stdlib/function/thunk](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/function/thunk)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - add `function/thunk`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Neeraj Pathak
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - **feat:** add `function/thunk` _(by Neeraj Pathak)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
