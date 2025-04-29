@@ -4,21 +4,11 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="function-thunk-unreleased">
-
-#### [@stdlib/function/thunk](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/function/thunk)
-
-<details>
+## Unreleased (2025-04-29)
 
 <section class="features">
 
-##### Features
+### Features
 
 -   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - add `function/thunk`
 
@@ -26,27 +16,17 @@
 
 <!-- /.features -->
 
-</details>
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6851](https://github.com/stdlib-js/stdlib/issues/6851)
 
 </section>
 
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Neeraj Pathak
-
-</section>
-
-<!-- /.contributors -->
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -54,6 +34,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`2336365`](https://github.com/stdlib-js/stdlib/commit/2336365a52edb3ff279cedb33d8f60a74245b458) - **chore:** fix EditorConfig lint errors [(#6859)](https://github.com/stdlib-js/stdlib/pull/6859) _(by Lalit Narayan Yadav, Athan Reines)_
 -   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - **feat:** add `function/thunk` _(by Neeraj Pathak)_
 
 </details>
@@ -61,6 +42,20 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Lalit Narayan Yadav
+-   Neeraj Pathak
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -100,14 +95,6 @@ No changes reported for this release.
 
 ## 0.3.0 (2024-08-17)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
 <section class="commits">
 
 ### Commits
@@ -140,27 +127,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-05)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -180,6 +146,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -198,115 +177,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-11-08)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="function-v0.1.0">
-
-#### [@stdlib/function](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/function)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="function-ctor-v0.1.0">
-
-#### [@stdlib/function/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/function/ctor)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="function-to-string-v0.1.0">
-
-#### [@stdlib/function/to-string](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/function/to-string)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -319,18 +198,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -348,6 +215,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
