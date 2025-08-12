@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-08-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`2336365`](https://github.com/stdlib-js/stdlib/commit/2336365a52edb3ff279cedb33d8f60a74245b458) - **chore:** fix EditorConfig lint errors [(#6859)](https://github.com/stdlib-js/stdlib/pull/6859) _(by Lalit Narayan Yadav, Athan Reines)_
 -   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - **feat:** add `function/thunk` _(by Neeraj Pathak)_
 
@@ -47,11 +48,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Lalit Narayan Yadav
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
