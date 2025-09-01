@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-12)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
 ### Features
 
+-   [`ccb87b6`](https://github.com/stdlib-js/stdlib/commit/ccb87b67fc9b58a37d5603ee1b86658bc70f0ef3) - add missing exports to namespaces
 -   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - add `function/thunk`
 
 </section>
@@ -34,6 +35,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`ccb87b6`](https://github.com/stdlib-js/stdlib/commit/ccb87b67fc9b58a37d5603ee1b86658bc70f0ef3) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`2336365`](https://github.com/stdlib-js/stdlib/commit/2336365a52edb3ff279cedb33d8f60a74245b458) - **chore:** fix EditorConfig lint errors [(#6859)](https://github.com/stdlib-js/stdlib/pull/6859) _(by Lalit Narayan Yadav, Athan Reines)_
 -   [`61266ec`](https://github.com/stdlib-js/stdlib/commit/61266ec07b964c691d9015949f6822eab3d6f3d2) - **feat:** add `function/thunk` _(by Neeraj Pathak)_
