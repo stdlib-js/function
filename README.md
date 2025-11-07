@@ -79,6 +79,7 @@ The namespace contains the following:
 <div class="namespace-toc">
 
 -   <span class="signature">[`Function( [...argNames,] body )`][@stdlib/function/ctor]</span><span class="delimiter">: </span><span class="description">function constructor.</span>
+-   <span class="signature">[`thunk( fcn[, ...args] )`][@stdlib/function/thunk]</span><span class="delimiter">: </span><span class="description">generate a thunk.</span>
 -   <span class="signature">[`function2string( fcn )`][@stdlib/function/to-string]</span><span class="delimiter">: </span><span class="description">return a string representing the source code of a provided function.</span>
 
 </div>
@@ -191,6 +192,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 <!-- <toc-links> -->
 
 [@stdlib/function/ctor]: https://github.com/stdlib-js/function/tree/main/ctor
+
+[@stdlib/function/thunk]: https://github.com/stdlib-js/function/tree/main/thunk
 
 [@stdlib/function/to-string]: https://github.com/stdlib-js/function/tree/main/to-string
 
