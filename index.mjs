@@ -1,4 +1,0 @@
-// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import t from"https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-read-only-property@v0.2.2-esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-function@v0.2.2-esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/string-format@v0.2.2-esm/index.mjs";var i=Function;function e(t){var i,e;if(!n(t))throw new TypeError(r("invalid argument. First argument must be a function. Value: `%s`.",t));for(i=[],e=1;e<arguments.length;e++)i.push(arguments[e]);return function(){return t.apply(null,i)}}var s=Function.prototype.toString;function o(t){return s.call(t)}var u={};t(u,"Function",i),t(u,"thunk",e),t(u,"function2string",o);export{i as Function,u as default,o as function2string,e as thunk};
-//# sourceMappingURL=index.mjs.map
