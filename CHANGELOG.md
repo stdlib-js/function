@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-16)
+## Unreleased (2026-04-19)
 
 <section class="features">
 
@@ -36,6 +36,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2c3e5f7`](https://github.com/stdlib-js/stdlib/commit/2c3e5f71e46c7a0ae1d4f2f20ace8b54f1bb5269) - **bench:** refactor to use string interpolation in `function` [(#11614)](https://github.com/stdlib-js/stdlib/pull/11614) _(by Karan Anand)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`c2a4860`](https://github.com/stdlib-js/stdlib/commit/c2a486030902e25c040852715d4d978f726224b2) - **feat:** update `function` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`ccb87b6`](https://github.com/stdlib-js/stdlib/commit/ccb87b67fc9b58a37d5603ee1b86658bc70f0ef3) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
@@ -54,9 +55,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Lalit Narayan Yadav
 -   Neeraj Pathak
 -   Philipp Burckhardt
